@@ -1,2 +1,2 @@
-# new project i created 
+# new project (exploring git) 
 saloni singh .
